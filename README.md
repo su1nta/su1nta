@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-Participated in Hacktoberfest 2022:
+Sukanta's Holopin Board:
 [![@su1nta's Holopin board](https://holopin.me/su1nta)](https://holopin.io/@su1nta)
 
 *Currently I'm out of ideas about how to represent my profile here, but I'll update as soon as I find some optimal way*

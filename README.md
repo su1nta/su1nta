@@ -7,11 +7,11 @@ Check out my repositories, you may find some interesting stuffs there!
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a [Face Recognition System](https://github.com/su1nta/FaceReco) Built with Python
-- 🌱 I’m currently learning Python Libraries: NumPy, OpenCV, dlib, Pillow
+- 🔭 I’m currently recovering the trauma from my first Hackathon
+- 🌱 I’m currently learning Web Development from [The Odin Project](https://github.com/TheOdinProject)
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with AOSP projects and custom rom development
-- 💬 Ask me about Linux
+- 💬 Ask me about Arch Linux
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->

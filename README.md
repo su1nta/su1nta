@@ -7,7 +7,7 @@ Check out my repositories, you may find some interesting stuffs there!
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently participating on MLH Global Hack Week: Web3!
+- 🔭 I’m currently participating on MLH [Global Hack Week](https://ghw.mlh.io/events/web3): Web3!
 - 🌱 I’m currently confused about Web and Linux
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with AOSP projects and custom rom development

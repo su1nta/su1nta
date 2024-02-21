@@ -7,8 +7,8 @@ Check out my repositories, you may find some interesting stuffs there!
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently doing #100daysofcode
-- 🌱 I’m currently craving to learn App dev
+- 🔭 I’m currently learning Docker
+- 🌱 I’m currently craving to learn Cloud Computing
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with AOSP projects and custom rom development
 - 💬 Ask me about Arch Linux
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-Sukanta's Holopin Board:
-[![@su1nta's Holopin board](https://holopin.me/su1nta)](https://holopin.io/@su1nta)
+<!-- Sukanta's Holopin Board:
+[![@su1nta's Holopin board](https://holopin.me/su1nta)](https://holopin.io/@su1nta) -->
 
 *Currently I'm out of ideas about how to represent my profile here, but I'll update as soon as I find some optimal way*

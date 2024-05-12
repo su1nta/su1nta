@@ -7,8 +7,8 @@ Check out my repositories, you may find some interesting stuffs there!
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently learning Docker
-- 🌱 I’m currently craving to learn Cloud Computing
+- 🔭 I’m currently learning Vitis HLS, JavaScript
+- 🌱 I’m currently craving to contribute to Open Source
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with AOSP projects and custom rom development
 - 💬 Ask me about Arch Linux

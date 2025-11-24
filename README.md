@@ -7,10 +7,10 @@ Check out my repositories, you may find some interesting stuffs there!
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently learning Vitis HLS, JavaScript
-- 🌱 I’m currently craving to contribute to Open Source
+- 🔭 I’m currently learning Framer and NextJS
+- 🌱 I’m currently looking to contribute to Open Source
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with AOSP projects and custom rom development
+- 🤔 I’m looking for help with internship opportunities
 - 💬 Ask me about Arch Linux
 - Checkout my [Resources](https://github.com/su1nta/Resources) for cool dev related stuffs!
 <!-- - 📫 How to reach me: ... -->
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 <!-- Sukanta's Holopin Board:
 [![@su1nta's Holopin board](https://holopin.me/su1nta)](https://holopin.io/@su1nta) -->
 
-*Currently I'm out of ideas about how to represent my profile here, but I'll update as soon as I find some optimal way*

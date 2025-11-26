@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### 🖥️ Frontend
 - ReactJS, NextJS
 - Motion for React (formerly Framer Motion), Tailwind CSS
-- ShadCN, DaisyUI
+- Shadcn/ui, DaisyUI
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with internship opportunities

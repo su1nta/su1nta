@@ -9,6 +9,22 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently learning Framer and NextJS
 - 🌱 I’m currently looking to contribute to Open Source
+
+### MyStack
+
+#### 🛠️ Backend Technologies
+- **Languages:** TypeScript, JavaScript, Python
+- **Frameworks:** Express.js, Node.js
+- **Databases:** PostgreSQL, MySQL (with Prisma ORM)
+- **Auth:** JWT, RBAC
+- **Validation:** Zod
+- **Tools:** Postman, Docker, Git
+
+#### 🖥️ Frontend
+- ReactJS, NextJS
+- Motion for React (formerly Framer Motion), Tailwind CSS
+- ShadCN, DaisyUI
+
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with internship opportunities
 - 💬 Ask me about Arch Linux

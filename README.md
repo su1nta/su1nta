@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 - ReactJS, NextJS
 - Motion for React (formerly Framer Motion), Tailwind CSS
 - Shadcn/ui, DaisyUI
+- Framer, Figma
+
+#### Projects Showcase
+- [ProjectDojo](https://github.com/su1nta/ProjectDojo) - Learning platform (with aesthetics) for your org's internal team
+- [Agenlabs Landing](https://github.com/su1nta/landing_agenlabs) - Landing Recreation from Aceternity UI Pro's template
+- [TODO_CLI](https://github.com/su1nta/todo_cli) - A minimal cli based local todo app
+- [GrowTomato](https://github.com/su1nta/GrowTomato) - Visualizing Tomato growth stage classification usin on-device AI (YOLO11)
+
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with internship opportunities
